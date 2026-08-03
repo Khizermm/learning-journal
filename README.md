@@ -1,3 +1,3 @@
 # Learning Journal
 
-This project contains blockchain, Git, DuneSQL, trading, and Python notes.
+This project contains blockchain, Git, DuneSQL, trading, Linux, and Python notes.
