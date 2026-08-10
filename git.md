@@ -1,3 +1,3 @@
-# Git Notes
+## GitHub
 
-- Git is a distributed version control system.
+GitHub stores remote Git repositories.
