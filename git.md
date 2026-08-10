@@ -1,3 +1,3 @@
-## GitHub
+## Remote Practice
 
-GitHub stores remote Git repositories.
+This change was made directly on GitHub.
