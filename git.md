@@ -1,4 +1,3 @@
-## Remote Practice
+## Git Branching
 
-This change was made directly on GitHub.
-khizer
+A branch allows us to work on a feature without changing the main branch.
